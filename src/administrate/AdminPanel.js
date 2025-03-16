@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import "./styles.css";
 
 const AdminPanel = () => {
   const [isAdmin, setIsAdmin] = useState(false);

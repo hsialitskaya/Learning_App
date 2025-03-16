@@ -1,7 +1,6 @@
 import React, { useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import coursesData from "../assets/courses.json";
-import "./styles.css";
 
 const CoursesManagement = () => {
   const navigate = useNavigate();
