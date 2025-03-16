@@ -13,10 +13,10 @@ E-Learning Platform is built using the following technologies:
 
 📍 React  
 📍 CSS, Tailwind CSS, Bootstrap  
-📍 Flexbox, Grid Layout  
-📍 Material UI  
-📍 Formik, yup 
-📍 jspdf
+📍 Flexbox, Grid Layout    
+📍 Material UI    
+📍 Formik, yup   
+📍 jspdf  
 📍 Nginx  
 
 # 🏁 Getting Started
