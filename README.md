@@ -12,10 +12,11 @@ E-Learning Platform is a full-stack web application built with React for the fro
 E-Learning Platform is built using the following technologies:
 
 📍 React  
-📍 CSS, Tailwind CSS  
+📍 CSS, Tailwind CSS, Bootstrap  
 📍 Flexbox, Grid Layout  
 📍 Material UI  
-📍 Formik  
+📍 Formik, yup 
+📍 jspdf
 📍 Nginx  
 
 # 🏁 Getting Started
