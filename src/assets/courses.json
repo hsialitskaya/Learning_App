@@ -1,0 +1,2756 @@
+[
+  {
+    "id": "1",
+    "nazwa": "Podstawy programowania w Pythonie",
+    "kategoria": "Programowanie",
+    "slowa_kluczowe": [
+      "Python",
+      "programowanie",
+      "podstawy"
+    ],
+    "czas_trwania": "4 tygodnie",
+    "poziom_trudnosci": "Beginner",
+    "oceny": [
+      5,
+      4,
+      5,
+      1,
+      1,
+      1,
+      3,
+      1,
+      4,
+      5,
+      2,
+      1,
+      5,
+      1,
+      1,
+      1,
+      2,
+      1,
+      4
+    ],
+    "opis": "Kurs wprowadzający do programowania w języku Python. Nauczysz się podstawowych konstrukcji języka, takich jak zmienne, pętle i funkcje.",
+    "plan_lekcji": [
+      "Wprowadzenie do Pythona",
+      "Zmienna i typy danych",
+      "Instrukcje warunkowe",
+      "Pętle i funkcje",
+      "Zadania praktyczne"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "Wprowadzenie do Pythona",
+        "materiały": [
+          {
+            "typ": "audio",
+            "zawartosc": "audio.mp3"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          },
+          {
+            "typ": "kod",
+            "zawartosc": "kod.js"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Zmienna i typy danych",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "audio",
+            "zawartosc": "audio.mp3"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "Instrukcje warunkowe",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Pętle i funkcje",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Zadania praktyczne",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "audio",
+            "zawartosc": "audio.mp3"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Czym jest Python?",
+          "odpowiedzi": [
+            "Językiem programowania",
+            "Rodzajem węża",
+            "Systemem operacyjnym"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Który z poniższych to poprawny sposób na wydrukowanie tekstu w Pythonie?",
+          "odpowiedzi": [
+            "print('Hello, world!')",
+            "echo('Hello, world!')",
+            "System.out.println('Hello, world!')"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jakim typem danych jest liczba całkowita w Pythonie?",
+          "odpowiedzi": [
+            "int",
+            "float",
+            "str"
+          ],
+          "poprawna_odpowiedz": 0
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "1",
+      "imie": "Jan Kowalski",
+      "doswiadczenie": "5 lat doświadczenia w programowaniu Python",
+      "certyfikaty": [
+        "Certyfikat Python Developer",
+        "Certified Python Programmer"
+      ],
+      "feedback": []
+    },
+    "preferencje": [
+      "Python",
+      "Machine Learning",
+      "Artificial Intelligence"
+    ],
+    "feedback": [
+      {
+        "userName": "a",
+        "rating": 1,
+        "comment": "aaaa",
+        "anonymous": false
+      },
+      {
+        "userName": "a",
+        "rating": 4,
+        "comment": "aaaaa",
+        "anonymous": true
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "nazwa": "Zaawansowane techniki webowe",
+    "kategoria": "Web Development",
+    "slowa_kluczowe": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "web development"
+    ],
+    "czas_trwania": "6 tygodni",
+    "poziom_trudnosci": "Intermediate",
+    "oceny": [
+      5,
+      5,
+      4,
+      5,
+      4
+    ],
+    "opis": "Kurs dla osób, które znają podstawy HTML, CSS i JavaScript. Skupiamy się na zaawansowanych technikach tworzenia stron internetowych.",
+    "plan_lekcji": [
+      "Zaawansowane techniki CSS",
+      "Flexbox i Grid Layout",
+      "JavaScript w praktyce",
+      "Praca z API",
+      "Optymalizacja wydajności strony"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "Zaawansowane techniki CSS",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Flexbox i Grid Layout",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "JavaScript w praktyce",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "audio",
+            "zawartosc": "audio.mp3"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Praca z API",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Optymalizacja wydajności strony",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Co oznacza skrót CSS?",
+          "odpowiedzi": [
+            "Cascading Style Sheets",
+            "Cascading Simple Styles",
+            "Complex Style System"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Która metoda w JavaScript pozwala na manipulację DOM?",
+          "odpowiedzi": [
+            "document.querySelector()",
+            "document.getElementByName()",
+            "window.alert()"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Czym jest Flexbox?",
+          "odpowiedzi": [
+            "Systemem układu w CSS",
+            "Metodą optymalizacji wydajności",
+            "API do pracy z serwerami"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jaką metodę stosuje się do pobierania danych z API?",
+          "odpowiedzi": [
+            "fetch()",
+            "readAPI()",
+            "getData()"
+          ],
+          "poprawna_odpowiedz": 0
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "2",
+      "imie": "Anna Nowak",
+      "doswiadczenie": "8 lat w web development, specjalizacja w frontendzie",
+      "certyfikaty": [
+        "Certified Frontend Developer",
+        "JavaScript Expert"
+      ]
+    },
+    "preferencje": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "Node.js"
+    ]
+  },
+  {
+    "id": "3",
+    "nazwa": "Wprowadzenie do sztucznej inteligencji",
+    "kategoria": "Sztuczna inteligencja",
+    "slowa_kluczowe": [
+      "AI",
+      "machine learning",
+      "algorytmy"
+    ],
+    "czas_trwania": "8 tygodni",
+    "poziom_trudnosci": "Intermediate",
+    "oceny": [
+      4,
+      4,
+      5,
+      4,
+      5
+    ],
+    "opis": "Kurs wprowadzający do sztucznej inteligencji, obejmujący podstawowe algorytmy i techniki wykorzystywane w AI.",
+    "plan_lekcji": [
+      "Wprowadzenie do AI",
+      "Podstawy uczenia maszynowego",
+      "Algorytmy w AI",
+      "Sieci neuronowe",
+      "Zadania praktyczne z AI"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "Wprowadzenie do sztucznej inteligencji",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "audio",
+            "zawartosc": "audio.mp3"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Podstawy uczenia maszynowego",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "Algorytmy w AI",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Sieci neuronowe",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "audio",
+            "zawartosc": "audio.mp3"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Zadania praktyczne z AI",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Co oznacza skrót AI?",
+          "odpowiedzi": [
+            "Artificial Intelligence",
+            "Automated Information",
+            "Advanced Integration"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Który z poniższych języków programowania jest najczęściej używany w AI?",
+          "odpowiedzi": [
+            "Java",
+            "Python",
+            "C++"
+          ],
+          "poprawna_odpowiedz": 1
+        },
+        {
+          "pytanie": "Czym jest uczenie maszynowe?",
+          "odpowiedzi": [
+            "Techniką, która pozwala komputerom uczyć się na podstawie danych",
+            "Metodą tworzenia sieci komputerowych",
+            "Procesem automatycznego aktualizowania oprogramowania"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Który algorytm jest najczęściej stosowany w klasyfikacji danych?",
+          "odpowiedzi": [
+            "Gradient Descent",
+            "K-Nearest Neighbors",
+            "Backpropagation"
+          ],
+          "poprawna_odpowiedz": 1
+        },
+        {
+          "pytanie": "Czym jest sieć neuronowa?",
+          "odpowiedzi": [
+            "Symulacją biologicznego mózgu z wykorzystaniem algorytmów matematycznych",
+            "Zbiorem funkcji używanych w optymalizacji",
+            "Zautomatyzowaną bazą danych"
+          ],
+          "poprawna_odpowiedz": 0
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "3",
+      "imie": "Piotr Wiśniewski",
+      "doswiadczenie": "6 lat pracy w branży AI i machine learning",
+      "certyfikaty": [
+        "Certified Machine Learning Specialist",
+        "AI Expert"
+      ]
+    },
+    "preferencje": [
+      "Python",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Java",
+      "C++"
+    ]
+  },
+  {
+    "id": "4",
+    "nazwa": "Podstawy JavaScript",
+    "kategoria": "Programowanie",
+    "slowa_kluczowe": [
+      "JavaScript",
+      "programowanie",
+      "frontend"
+    ],
+    "czas_trwania": "5 tygodni",
+    "poziom_trudnosci": "Beginner",
+    "oceny": [
+      4,
+      4,
+      5,
+      4,
+      3
+    ],
+    "opis": "Kurs dla początkujących programistów, którzy chcą poznać podstawy języka JavaScript, niezbędnego do tworzenia dynamicznych stron internetowych.",
+    "plan_lekcji": [
+      "Wprowadzenie do JavaScript",
+      "Zmienna i typy danych",
+      "Funkcje i pętle",
+      "Praca z DOM",
+      "Podstawy asynchroniczności"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "Wprowadzenie do JavaScript",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Zmienna i typy danych",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "Funkcje i pętle",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Praca z DOM",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Podstawy asynchroniczności",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "audio",
+            "zawartosc": "audio.mp3"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Jaką wartość zwraca metoda `typeof` dla liczby?",
+          "odpowiedzi": [
+            "\"number\"",
+            "\"int\"",
+            "\"float\""
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Które słowo kluczowe używa się do deklaracji zmiennej, której wartość może się zmieniać?",
+          "odpowiedzi": [
+            "const",
+            "let",
+            "var"
+          ],
+          "poprawna_odpowiedz": 1
+        },
+        {
+          "pytanie": "Jakie jest domyślne miejsce, w którym przeszukiwany jest DOM?",
+          "odpowiedzi": [
+            "document",
+            "window",
+            "body"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jaką metodą dodasz element HTML do dokumentu?",
+          "odpowiedzi": [
+            "addElement()",
+            "appendChild()",
+            "insertElement()"
+          ],
+          "poprawna_odpowiedz": 1
+        },
+        {
+          "pytanie": "Jakiego mechanizmu używamy w JavaScript do pracy z operacjami asynchronicznymi?",
+          "odpowiedzi": [
+            "Callbacki",
+            "Promise",
+            "Oba powyższe"
+          ],
+          "poprawna_odpowiedz": 2
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "4",
+      "imie": "Ewa Zawisza",
+      "doswiadczenie": "4 lata doświadczenia w programowaniu JavaScript",
+      "certyfikaty": [
+        "JavaScript Developer",
+        "Frontend Development Specialist"
+      ]
+    },
+    "preferencje": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Node.js",
+      "React"
+    ]
+  },
+  {
+    "id": "5",
+    "nazwa": "Podstawy UX/UI Design",
+    "kategoria": "Projektowanie",
+    "slowa_kluczowe": [
+      "UX/UI",
+      "design",
+      "projektowanie"
+    ],
+    "czas_trwania": "6 tygodni",
+    "poziom_trudnosci": "Beginner",
+    "oceny": [
+      5,
+      5,
+      5,
+      4,
+      4
+    ],
+    "opis": "Kurs wprowadzający do projektowania interfejsów użytkownika i doświadczenia użytkownika. Nauczysz się podstawowych zasad UX/UI i ich zastosowania w projektach.",
+    "plan_lekcji": [
+      "Wprowadzenie do UX/UI",
+      "Podstawowe zasady projektowania",
+      "Projektowanie w Adobe XD",
+      "Tworzenie prototypów",
+      "Testowanie użyteczności"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "Wprowadzenie do UX/UI",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Podstawowe zasady projektowania",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "Projektowanie w Adobe XD",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "audio",
+            "zawartosc": "audio.mp3"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Tworzenie prototypów",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Testowanie użyteczności",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Co oznacza skrót UX?",
+          "odpowiedzi": [
+            "User Extension",
+            "User Experience",
+            "User Execution"
+          ],
+          "poprawna_odpowiedz": 1
+        },
+        {
+          "pytanie": "Co jest głównym celem projektowania UI?",
+          "odpowiedzi": [
+            "Tworzenie pięknych obrazów",
+            "Optymalizacja interfejsu użytkownika",
+            "Pisanie kodu"
+          ],
+          "poprawna_odpowiedz": 1
+        },
+        {
+          "pytanie": "Które narzędzie jest często używane do tworzenia prototypów w UX/UI?",
+          "odpowiedzi": [
+            "Adobe XD",
+            "Microsoft Word",
+            "Visual Studio Code"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Która zasada projektowania odnosi się do organizacji treści w hierarchię wizualną?",
+          "odpowiedzi": [
+            "Kontrast",
+            "Hierarchia",
+            "Spójność"
+          ],
+          "poprawna_odpowiedz": 1
+        },
+        {
+          "pytanie": "Czym zajmuje się testowanie użyteczności?",
+          "odpowiedzi": [
+            "Sprawdzaniem kodu",
+            "Analizą funkcjonalności interfejsu",
+            "Tworzeniem nowych projektów"
+          ],
+          "poprawna_odpowiedz": 1
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "5",
+      "imie": "Katarzyna Kwiatkowska",
+      "doswiadczenie": "7 lat doświadczenia w UX/UI design",
+      "certyfikaty": [
+        "Certified UX Designer",
+        "Certified UI Specialist"
+      ]
+    },
+    "preferencje": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "React",
+      "Vue.js"
+    ]
+  },
+  {
+    "id": "6",
+    "nazwa": "Zarządzanie projektami IT",
+    "kategoria": "Zarządzanie",
+    "slowa_kluczowe": [
+      "zarządzanie",
+      "projektami",
+      "IT"
+    ],
+    "czas_trwania": "7 tygodni",
+    "poziom_trudnosci": "Intermediate",
+    "oceny": [
+      4,
+      4,
+      4,
+      5,
+      5
+    ],
+    "opis": "Kurs dla osób, które chcą poznać metodyki zarządzania projektami w branży IT. Kurs obejmuje Scrum, Agile i inne popularne podejścia.",
+    "plan_lekcji": [
+      "Wprowadzenie do zarządzania projektami",
+      "Metodyka Scrum",
+      "Agile w praktyce",
+      "Zarządzanie zespołem",
+      "Planowanie i realizacja projektów"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "Wprowadzenie do zarządzania projektami",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Metodyka Scrum",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "Agile w praktyce",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "audio",
+            "zawartosc": "audio.mp3"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Zarządzanie zespołem",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Planowanie i realizacja projektów",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Co oznacza skrót Scrum w zarządzaniu projektami?",
+          "odpowiedzi": [
+            "Strategia codziennych spotkań zespołu",
+            "Specyficzny framework zarządzania projektami",
+            "System planowania zasobów"
+          ],
+          "poprawna_odpowiedz": 1
+        },
+        {
+          "pytanie": "Która z poniższych zasad jest kluczowa w metodologii Agile?",
+          "odpowiedzi": [
+            "Dokładne planowanie na cały projekt",
+            "Elastyczność i adaptacja do zmian",
+            "Szczegółowa dokumentacja projektu"
+          ],
+          "poprawna_odpowiedz": 1
+        },
+        {
+          "pytanie": "Jak często odbywają się spotkania Daily Scrum?",
+          "odpowiedzi": [
+            "Raz w tygodniu",
+            "Codziennie",
+            "Raz w miesiącu"
+          ],
+          "poprawna_odpowiedz": 1
+        },
+        {
+          "pytanie": "Co jest celem retrospektywy sprintu w Scrum?",
+          "odpowiedzi": [
+            "Zaplacenie wynagrodzeń zespołowi",
+            "Omówienie i poprawa procesów zespołu",
+            "Prezentacja wyników projektu"
+          ],
+          "poprawna_odpowiedz": 1
+        },
+        {
+          "pytanie": "Która rola w Scrum jest odpowiedzialna za priorytetyzację backlogu produktu?",
+          "odpowiedzi": [
+            "Scrum Master",
+            "Product Owner",
+            "Zespół Deweloperski"
+          ],
+          "poprawna_odpowiedz": 1
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "6",
+      "imie": "Marcin Nowakowski",
+      "doswiadczenie": "10 lat doświadczenia w zarządzaniu projektami IT",
+      "certyfikaty": [
+        "Certified Scrum Master",
+        "Agile Project Manager"
+      ]
+    },
+    "preferencje": [
+      "JavaScript",
+      "Node.js",
+      "Python",
+      "C#"
+    ]
+  },
+  {
+    "id": "7",
+    "nazwa": "Zaawansowane JavaScript",
+    "kategoria": "Programowanie",
+    "slowa_kluczowe": [
+      "JavaScript",
+      "programowanie",
+      "advanced"
+    ],
+    "czas_trwania": "6 tygodni",
+    "poziom_trudnosci": "Intermediate",
+    "oceny": [
+      5,
+      5,
+      5,
+      4,
+      5
+    ],
+    "opis": "Kurs dla zaawansowanych programistów, którzy chcą pogłębić swoją wiedzę w zakresie języka JavaScript.",
+    "plan_lekcji": [
+      "ES6 i wyższe wersje JavaScript",
+      "Asynchroniczność i Promises",
+      "Node.js",
+      "Praca z bazami danych",
+      "Frameworki JavaScript: Angular, React"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "ES6 i wyższe wersje JavaScript",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Asynchroniczność i Promises",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          },
+          {
+            "typ": "kod",
+            "zawartosc": "kod.js"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "Node.js",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          },
+          {
+            "typ": "audio",
+            "zawartosc": "audio.mp3"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Praca z bazami danych",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Frameworki JavaScript: Angular, React",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Co oznacza 'asynchroniczność' w JavaScript?",
+          "odpowiedzi": [
+            "Działanie kodu w jednym wątku",
+            "Wykonywanie kodu w wielu wątkach",
+            "Wykonywanie kodu niezależnie od reszty programu",
+            "Czekanie na odpowiedzi z serwera"
+          ],
+          "poprawna_odpowiedz": 3
+        },
+        {
+          "pytanie": "Co to jest Promise w JavaScript?",
+          "odpowiedzi": [
+            "Obiekt reprezentujący wartość, która może być dostępna w przyszłości",
+            "Typ zmiennej w JavaScript",
+            "Metoda wykorzystywana do asynchronicznych operacji",
+            "Typ funkcji, która może zwrócić błąd"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jakie narzędzie jest używane do uruchamiania aplikacji w Node.js?",
+          "odpowiedzi": [
+            "npm",
+            "bower",
+            "yarn",
+            "webpack"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jakie frameworki JavaScript są najczęściej używane w projektach webowych?",
+          "odpowiedzi": [
+            "Angular i React",
+            "Vue.js i TypeScript",
+            "Node.js i Express",
+            "Python i Django"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co oznacza ES6 w JavaScript?",
+          "odpowiedzi": [
+            "Skrócona nazwa dla ECMAScript 6",
+            "Jest to rodzaj frameworka",
+            "Jest to technika optymalizacji",
+            "Jest to nowa wersja bazy danych"
+          ],
+          "poprawna_odpowiedz": 0
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "7",
+      "imie": "Michał Wójcik",
+      "doswiadczenie": "10 lat w programowaniu JavaScript",
+      "certyfikaty": [
+        "Advanced JavaScript Developer",
+        "Node.js Certified"
+      ]
+    },
+    "preferencje": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Vue.js",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "8",
+    "nazwa": "Tworzenie aplikacji mobilnych z React Native",
+    "kategoria": "Mobile Development",
+    "slowa_kluczowe": [
+      "React Native",
+      "mobile development",
+      "aplikacje mobilne"
+    ],
+    "czas_trwania": "8 tygodni",
+    "poziom_trudnosci": "Intermediate",
+    "oceny": [
+      4,
+      5,
+      4,
+      5,
+      5
+    ],
+    "opis": "Kurs dla osób, które chcą nauczyć się tworzyć aplikacje mobilne na systemy iOS i Android przy użyciu React Native.",
+    "plan_lekcji": [
+      "Wprowadzenie do React Native",
+      "Komponenty i stylizacja aplikacji",
+      "Nawigacja i routing",
+      "Integracja z API",
+      "Publikowanie aplikacji"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "Wprowadzenie do React Native",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Komponenty i stylizacja aplikacji",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "Nawigacja i routing",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Integracja z API",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "audio",
+            "zawartosc": "audio.mp3"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Publikowanie aplikacji",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Co to jest React Native?",
+          "odpowiedzi": [
+            "Biblioteka do tworzenia aplikacji webowych",
+            "Framework do tworzenia aplikacji mobilnych na Androida i iOS",
+            "Język programowania do tworzenia aplikacji desktopowych"
+          ],
+          "poprawna_odpowiedz": 1
+        },
+        {
+          "pytanie": "Co należy zrobić, aby dodać nawigację do aplikacji React Native?",
+          "odpowiedzi": [
+            "Zainstalować bibliotekę React Navigation",
+            "Użyć wbudowanego komponentu nawigacji React Native",
+            "Dodać odpowiednie tagi w pliku HTML"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jakie typy komponentów są dostępne w React Native?",
+          "odpowiedzi": [
+            "Komponenty widoku i komponenty logiki",
+            "Komponenty statyczne i dynamiczne",
+            "Komponenty widoku, tekstu, obrazu i przycisków"
+          ],
+          "poprawna_odpowiedz": 2
+        },
+        {
+          "pytanie": "Co należy zrobić, aby zintegrować aplikację React Native z zewnętrznym API?",
+          "odpowiedzi": [
+            "Zainstalować bibliotekę React API",
+            "Użyć fetch() lub axios() do wysyłania zapytań HTTP",
+            "Bezpośrednio wbudować API w kod aplikacji"
+          ],
+          "poprawna_odpowiedz": 1
+        },
+        {
+          "pytanie": "Co jest wymagane do opublikowania aplikacji React Native na Androidzie?",
+          "odpowiedzi": [
+            "Zainstalowanie i konfiguracja Android Studio",
+            "Zainstalowanie Node.js",
+            "Tworzenie aplikacji w systemie Linux"
+          ],
+          "poprawna_odpowiedz": 0
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "8",
+      "imie": "Tomasz Lewandowski",
+      "doswiadczenie": "5 lat pracy z React Native",
+      "certyfikaty": [
+        "React Native Developer",
+        "Mobile Application Specialist"
+      ]
+    },
+    "preferencje": [
+      "React Native",
+      "JavaScript",
+      "Node.js",
+      "TypeScript",
+      "Swift"
+    ]
+  },
+  {
+    "id": "9",
+    "nazwa": "Programowanie w C++",
+    "kategoria": "Programowanie",
+    "slowa_kluczowe": [
+      "C++",
+      "programowanie",
+      "algorytmy"
+    ],
+    "czas_trwania": "7 tygodni",
+    "poziom_trudnosci": "Beginner",
+    "oceny": [
+      5,
+      4,
+      5,
+      4,
+      5
+    ],
+    "opis": "Kurs, który wprowadza w zaawansowane techniki programowania w C++. Nauczysz się tworzyć skomplikowane algorytmy i struktury danych.",
+    "plan_lekcji": [
+      "Wprowadzenie do C++",
+      "Zmienna, typy danych i operatory",
+      "Pętle i instrukcje warunkowe",
+      "Algorytmy i struktury danych",
+      "Zaawansowane techniki programowania w C++"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "Wprowadzenie do C++",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Zmienna, typy danych i operatory",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "Pętle i instrukcje warunkowe",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "audio",
+            "zawartosc": "audio.mp3"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Algorytmy i struktury danych",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Zaawansowane techniki programowania w C++",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Co to jest zmienna w C++?",
+          "odpowiedzi": [
+            "Miejsce w pamięci, które przechowuje dane",
+            "Rodzaj funkcji",
+            "Typ danych, który przechowuje tekst"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jakie operatory są dostępne w C++?",
+          "odpowiedzi": [
+            "Operatory arytmetyczne, logiczne i bitowe",
+            "Tylko operatory matematyczne",
+            "Tylko operatory porównania"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co to jest pętla for w C++?",
+          "odpowiedzi": [
+            "Pętla, która wykonuje blok kodu określoną liczbę razy",
+            "Pętla, która działa dopóki nie spełniony jest warunek",
+            "Pętla, która działa do momentu przerwania przez użytkownika"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co to jest struktura danych w C++?",
+          "odpowiedzi": [
+            "Sposób przechowywania danych w programie w sposób uporządkowany",
+            "Rodzaj zmiennej",
+            "Rodzaj operatora"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co to jest wskaźnik w C++?",
+          "odpowiedzi": [
+            "Zmienna, która przechowuje adres innej zmiennej",
+            "Typ danych do przechowywania liczb",
+            "Typ zmiennej do przechowywania tekstu"
+          ],
+          "poprawna_odpowiedz": 0
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "9",
+      "imie": "Marcin Kaczmarek",
+      "doswiadczenie": "6 lat doświadczenia w programowaniu C++",
+      "certyfikaty": [
+        "Certified C++ Developer",
+        "Advanced C++ Specialist"
+      ]
+    },
+    "preferencje": [
+      "C++",
+      "Python",
+      "Java",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "10",
+    "nazwa": "Tworzenie aplikacji w Angularze",
+    "kategoria": "Web Development",
+    "slowa_kluczowe": [
+      "Angular",
+      "frontend",
+      "aplikacje webowe"
+    ],
+    "czas_trwania": "6 tygodni",
+    "poziom_trudnosci": "Intermediate",
+    "oceny": [
+      5,
+      4,
+      4,
+      5,
+      4
+    ],
+    "opis": "Kurs dla osób, które chcą nauczyć się tworzyć aplikacje webowe przy użyciu frameworka Angular.",
+    "plan_lekcji": [
+      "Wprowadzenie do Angulara",
+      "Komponenty i usługi",
+      "Moduły i routing",
+      "Praca z formularzami",
+      "Integracja z API"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "Wprowadzenie do Angulara",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Komponenty i usługi",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "Moduły i routing",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Praca z formularzami",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Integracja z API",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Co to jest Angular?",
+          "odpowiedzi": [
+            "Framework do tworzenia aplikacji webowych",
+            "Język programowania",
+            "Baza danych do aplikacji webowych"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co to są komponenty w Angularze?",
+          "odpowiedzi": [
+            "Moduły kodu, które odpowiadają za interfejs użytkownika",
+            "Rodzaj bazy danych",
+            "Stylizacja aplikacji"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Do czego służy routing w Angularze?",
+          "odpowiedzi": [
+            "Do nawigowania między różnymi widokami aplikacji",
+            "Do przechowywania danych w aplikacji",
+            "Do stylizacji interfejsu użytkownika"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jakie są główne zalety używania usług w Angularze?",
+          "odpowiedzi": [
+            "Pozwalają na wielokrotne użycie kodu w różnych komponentach",
+            "Umożliwiają stylizację aplikacji",
+            "Ułatwiają pracę z bazą danych"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jak Angular obsługuje integrację z API?",
+          "odpowiedzi": [
+            "Przez usługi HTTP, które umożliwiają komunikację z serwerem",
+            "Przez bezpośrednie połączenie z bazą danych",
+            "Przez zewnętrzne biblioteki do obsługi API"
+          ],
+          "poprawna_odpowiedz": 0
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "10",
+      "imie": "Piotr Kowal",
+      "doswiadczenie": "7 lat w tworzeniu aplikacji w Angularze",
+      "certyfikaty": [
+        "Certified Angular Developer",
+        "Fullstack Developer"
+      ]
+    },
+    "preferencje": [
+      "Angular",
+      "TypeScript",
+      "JavaScript",
+      "Node.js"
+    ]
+  },
+  {
+    "id": "11",
+    "nazwa": "Java w praktyce",
+    "kategoria": "Programowanie",
+    "slowa_kluczowe": [
+      "Java",
+      "programowanie",
+      "backend"
+    ],
+    "czas_trwania": "5 tygodni",
+    "poziom_trudnosci": "Intermediate",
+    "oceny": [
+      4,
+      5,
+      5,
+      4,
+      5
+    ],
+    "opis": "Kurs, który pozwoli Ci poznać praktyczne aspekty programowania w języku Java, w tym tworzenie aplikacji backendowych.",
+    "plan_lekcji": [
+      "Wprowadzenie do Javy",
+      "Zmienna, typy danych i pętle",
+      "Praca z bazą danych",
+      "Tworzenie aplikacji webowych w Java",
+      "Testowanie i optymalizacja"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "Wprowadzenie do Javy",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Zmienna, typy danych i pętle",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "Praca z bazą danych",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Tworzenie aplikacji webowych w Java",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Testowanie i optymalizacja",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Jakie są główne zastosowania języka Java?",
+          "odpowiedzi": [
+            "Tworzenie aplikacji backendowych, aplikacji mobilnych i aplikacji webowych",
+            "Tworzenie jedynie aplikacji mobilnych",
+            "Tylko tworzenie gier komputerowych"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Do czego służy Spring Framework?",
+          "odpowiedzi": [
+            "Ułatwia tworzenie aplikacji backendowych w Javie",
+            "Jest to framework do tworzenia aplikacji mobilnych",
+            "Ułatwia tworzenie interfejsów użytkownika"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co to jest pętla w programowaniu?",
+          "odpowiedzi": [
+            "Struktura, która pozwala wielokrotnie wykonywać ten sam blok kodu",
+            "Typ danych",
+            "Konstrukcja do obsługi błędów"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co to jest baza danych w kontekście aplikacji backendowej?",
+          "odpowiedzi": [
+            "System do przechowywania i zarządzania danymi aplikacji",
+            "Narzędzie do tworzenia interfejsów użytkownika",
+            "Język programowania do tworzenia aplikacji"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jakie techniki testowania są stosowane w aplikacjach Java?",
+          "odpowiedzi": [
+            "Jednostkowe testy, testy integracyjne, testy funkcjonalne",
+            "Testy UI, testy aplikacji mobilnych",
+            "Testy obciążeniowe tylko"
+          ],
+          "poprawna_odpowiedz": 0
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "11",
+      "imie": "Anna Wojciechowska",
+      "doswiadczenie": "8 lat pracy z Javą i Spring",
+      "certyfikaty": [
+        "Certified Java Developer",
+        "Spring Framework Specialist"
+      ]
+    },
+    "preferencje": [
+      "Java",
+      "Spring",
+      "C#",
+      "SQL"
+    ]
+  },
+  {
+    "id": "12",
+    "nazwa": "Praca z bazami danych SQL",
+    "kategoria": "Bazy danych",
+    "slowa_kluczowe": [
+      "SQL",
+      "bazy danych",
+      "zapytania"
+    ],
+    "czas_trwania": "4 tygodnie",
+    "poziom_trudnosci": "Beginner",
+    "oceny": [
+      5,
+      5,
+      4,
+      5,
+      5
+    ],
+    "opis": "Kurs dla osób, które chcą nauczyć się pracy z bazami danych SQL, tworzenia zapytań oraz optymalizacji baz danych.",
+    "plan_lekcji": [
+      "Wprowadzenie do SQL",
+      "Podstawowe zapytania SELECT",
+      "Operacje na danych: INSERT, UPDATE, DELETE",
+      "Łączenie tabel: JOIN",
+      "Optymalizacja zapytań SQL"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "Wprowadzenie do SQL",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Podstawowe zapytania SELECT",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "Operacje na danych: INSERT, UPDATE, DELETE",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Łączenie tabel: JOIN",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Optymalizacja zapytań SQL",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Co to jest SQL?",
+          "odpowiedzi": [
+            "Język zapytań służący do komunikacji z bazami danych",
+            "Język programowania do tworzenia aplikacji webowych",
+            "Język służący do tworzenia stron internetowych"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co oznacza operacja SELECT w SQL?",
+          "odpowiedzi": [
+            "Pobieranie danych z bazy danych",
+            "Usuwanie danych z bazy danych",
+            "Dodawanie danych do bazy danych"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co robi operacja JOIN w SQL?",
+          "odpowiedzi": [
+            "Łączy dane z dwóch lub więcej tabel",
+            "Zmienia strukturę tabeli",
+            "Tworzy nowe tabele"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jakie operacje umożliwiają zmiany w danych w tabelach SQL?",
+          "odpowiedzi": [
+            "INSERT, UPDATE, DELETE",
+            "SELECT, INSERT, ALTER",
+            "JOIN, SELECT, DELETE"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co to jest optymalizacja zapytań SQL?",
+          "odpowiedzi": [
+            "Proces poprawy wydajności zapytań w bazach danych",
+            "Dodawanie nowych tabel do bazy danych",
+            "Tworzenie nowych użytkowników w bazie danych"
+          ],
+          "poprawna_odpowiedz": 0
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "12",
+      "imie": "Łukasz Jankowski",
+      "doswiadczenie": "10 lat doświadczenia z bazami danych",
+      "certyfikaty": [
+        "Certified SQL Expert",
+        "Database Administrator"
+      ]
+    },
+    "preferencje": [
+      "SQL",
+      "PostgreSQL",
+      "MySQL",
+      "Python"
+    ]
+  },
+  {
+    "id": "13",
+    "nazwa": "Wstęp do technologii React",
+    "kategoria": "Web Development",
+    "slowa_kluczowe": [
+      "React",
+      "frontend",
+      "biblioteka"
+    ],
+    "czas_trwania": "5 tygodni",
+    "poziom_trudnosci": "Intermediate",
+    "oceny": [
+      5,
+      5,
+      5,
+      4,
+      5
+    ],
+    "opis": "Kurs dla osób, które chcą nauczyć się korzystać z Reacta do tworzenia nowoczesnych aplikacji frontendowych.",
+    "plan_lekcji": [
+      "Wprowadzenie do Reacta",
+      "Tworzenie komponentów",
+      "Praca z propsami i stanem",
+      "Routing w React",
+      "Podstawy Redux"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "Wprowadzenie do Reacta",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "wideo",
+            "zawartosc": "wideo.mp4"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Tworzenie komponentów",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "prezentacja.pdf"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "Praca z propsami i stanem",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Routing w React",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Podstawy Redux",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Co to jest React?",
+          "odpowiedzi": [
+            "Biblioteka do tworzenia interfejsów użytkownika",
+            "Framework do tworzenia aplikacji webowych",
+            "Język programowania"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co to są komponenty w React?",
+          "odpowiedzi": [
+            "Elementy, które reprezentują część interfejsu użytkownika",
+            "Moduły aplikacji, które zawierają dane",
+            "Zbiory funkcji do zarządzania stanem aplikacji"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Do czego służą props w React?",
+          "odpowiedzi": [
+            "Do przekazywania danych z rodzica do dziecka w komponentach",
+            "Do zarządzania stanem aplikacji",
+            "Do tworzenia nowych komponentów"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co to jest stan (state) w React?",
+          "odpowiedzi": [
+            "Zmienna przechowująca dane specyficzne dla komponentu",
+            "Metoda do renderowania komponentów",
+            "Zbiór funkcji do zarządzania interfejsem użytkownika"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co to jest Redux?",
+          "odpowiedzi": [
+            "Biblioteka do zarządzania stanem aplikacji",
+            "Biblioteka do tworzenia routingów",
+            "Biblioteka do tworzenia animacji"
+          ],
+          "poprawna_odpowiedz": 0
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "13",
+      "imie": "Marek Nowak",
+      "doswiadczenie": "6 lat pracy z React",
+      "certyfikaty": [
+        "React Developer",
+        "Fullstack Developer"
+      ]
+    },
+    "preferencje": [
+      "React",
+      "JavaScript",
+      "TypeScript",
+      "Node.js"
+    ]
+  },
+  {
+    "id": "14",
+    "nazwa": "Wprowadzenie do sztucznej inteligencji z Pythonem",
+    "kategoria": "Sztuczna inteligencja",
+    "slowa_kluczowe": [
+      "AI",
+      "Python",
+      "machine learning"
+    ],
+    "czas_trwania": "8 tygodni",
+    "poziom_trudnosci": "Advanced",
+    "oceny": [
+      4,
+      5,
+      4,
+      5,
+      4
+    ],
+    "opis": "Kurs wprowadzający do sztucznej inteligencji z użyciem Pythona. Poznasz podstawy uczenia maszynowego i implementację algorytmów.",
+    "plan_lekcji": [
+      "Podstawy Python i AI",
+      "Machine Learning",
+      "Regresja liniowa",
+      "Sieci neuronowe",
+      "Zastosowania sztucznej inteligencji"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "Podstawy Python i AI",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Machine Learning",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "Regresja liniowa",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Sieci neuronowe",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Zastosowania sztucznej inteligencji",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Co to jest sztuczna inteligencja?",
+          "odpowiedzi": [
+            "Gałąź informatyki zajmująca się tworzeniem systemów, które mogą wykonywać zadania wymagające ludzkiej inteligencji",
+            "Typ algorytmu, który jest używany do rozwiązywania problemów matematycznych",
+            "Zbiór narzędzi do automatyzacji procesów w biznesie"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co to jest uczenie maszynowe?",
+          "odpowiedzi": [
+            "Rodzaj algorytmu, który uczy się na podstawie danych i poprawia swoje wyniki",
+            "Proces tworzenia sztucznej inteligencji przy użyciu reguł programowania",
+            "Technika wykorzystywana do tworzenia stron internetowych"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Czym jest regresja liniowa?",
+          "odpowiedzi": [
+            "Algorytm do przewidywania wartości na podstawie danych wejściowych, zakładający liniową zależność",
+            "Metoda klasyfikacji, która wykorzystuje drzewa decyzyjne",
+            "Model używany do generowania tekstów"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co to są sieci neuronowe?",
+          "odpowiedzi": [
+            "Modele matematyczne inspirowane strukturą ludzkiego mózgu, które uczą się na podstawie danych",
+            "Algorytmy stosowane w analizie tekstów",
+            "Typ urządzeń używanych w sztucznej inteligencji"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jakie są zastosowania sztucznej inteligencji?",
+          "odpowiedzi": [
+            "Wszystkie powyższe: rozpoznawanie obrazów, analiza danych, automatyczne tłumaczenie",
+            "Tylko analiza danych",
+            "Tylko automatyczne tłumaczenie"
+          ],
+          "poprawna_odpowiedz": 0
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "14",
+      "imie": "Paweł Malinowski",
+      "doswiadczenie": "4 lata w AI i Machine Learning",
+      "certyfikaty": [
+        "Certified AI Specialist",
+        "Machine Learning Engineer"
+      ]
+    },
+    "preferencje": [
+      "Python",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Java"
+    ]
+  },
+  {
+    "id": "15",
+    "nazwa": "Zarządzanie systemami Linux",
+    "kategoria": "Systemy operacyjne",
+    "slowa_kluczowe": [
+      "Linux",
+      "administracja",
+      "systemy operacyjne"
+    ],
+    "czas_trwania": "6 tygodni",
+    "poziom_trudnosci": "Beginner",
+    "oceny": [
+      5,
+      4,
+      5,
+      4,
+      4
+    ],
+    "opis": "Kurs skierowany do osób, które chcą nauczyć się administracji systemami Linux. Kurs obejmuje instalację, konfigurację oraz zarządzanie systemem.",
+    "plan_lekcji": [
+      "Wprowadzenie do Linuxa",
+      "Podstawy administracji systemem",
+      "Zarządzanie użytkownikami i procesami",
+      "Sieci w Linuxie",
+      "Zarządzanie pakietami i oprogramowaniem"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "Wprowadzenie do Linuxa",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Podstawy administracji systemem",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "Zarządzanie użytkownikami i procesami",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Sieci w Linuxie",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Zarządzanie pakietami i oprogramowaniem",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Co to jest system Linux?",
+          "odpowiedzi": [
+            "System operacyjny typu open-source, który jest używany na wielu urządzeniach, od komputerów po serwery",
+            "Typ programu, który służy do tworzenia stron internetowych",
+            "Program służący do analizy danych"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co obejmuje administracja systemem Linux?",
+          "odpowiedzi": [
+            "Instalację, konfigurację oraz zarządzanie systemem operacyjnym",
+            "Pisanie aplikacji komputerowych",
+            "Projektowanie baz danych"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jakie polecenie służy do zarządzania użytkownikami w systemie Linux?",
+          "odpowiedzi": [
+            "useradd",
+            "deluser",
+            "lsuser"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co oznacza termin 'proces' w systemie Linux?",
+          "odpowiedzi": [
+            "Wykonywana jednostka pracy w systemie operacyjnym, która ma przypisany identyfikator PID",
+            "Rodzaj oprogramowania zainstalowanego na systemie",
+            "Komponent sprzętowy, który zarządza pamięcią"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jakie narzędzie w systemie Linux jest używane do zarządzania pakietami oprogramowania?",
+          "odpowiedzi": [
+            "apt, yum, pacman",
+            "notepad",
+            "winrar"
+          ],
+          "poprawna_odpowiedz": 0
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "15",
+      "imie": "Andrzej Zieliński",
+      "doswiadczenie": "12 lat administracji systemami Linux",
+      "certyfikaty": [
+        "Linux Professional",
+        "Certified System Administrator"
+      ]
+    },
+    "preferencje": [
+      "Linux",
+      "Bash",
+      "Python",
+      "Docker"
+    ]
+  },
+  {
+    "id": "16",
+    "nazwa": "Tworzenie gier w Unity",
+    "kategoria": "Game Development",
+    "slowa_kluczowe": [
+      "Unity",
+      "gry",
+      "game development"
+    ],
+    "czas_trwania": "8 tygodni",
+    "poziom_trudnosci": "Advanced",
+    "oceny": [
+      5,
+      5,
+      5,
+      4,
+      5
+    ],
+    "opis": "Kurs, który nauczy Cię tworzyć gry komputerowe w Unity. Dowiesz się, jak projektować poziomy, pracować z fizyką oraz programować interakcje.",
+    "plan_lekcji": [
+      "Wprowadzenie do Unity",
+      "Tworzenie obiektów 3D",
+      "Fizyka w Unity",
+      "Skripty C#",
+      "Zarządzanie scenami"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "Wprowadzenie do Unity",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Tworzenie obiektów 3D",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "Fizyka w Unity",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Skripty C#",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Zarządzanie scenami",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Co to jest Unity?",
+          "odpowiedzi": [
+            "Silnik do tworzenia gier komputerowych, który umożliwia tworzenie gier 2D i 3D",
+            "Program do obróbki zdjęć",
+            "Framework do tworzenia aplikacji webowych"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jakie obiekty 3D można tworzyć w Unity?",
+          "odpowiedzi": [
+            "Modele 3D, które mogą być wykorzystywane w grach komputerowych",
+            "Dokumenty tekstowe",
+            "Bazy danych"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jakie są podstawowe elementy fizyki w Unity?",
+          "odpowiedzi": [
+            "Siła, grawitacja, kolizje",
+            "Kamera, tekstury, oświetlenie",
+            "Ruch, renderowanie, kontrolery"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Do jakiego języka programowania używa się skryptów w Unity?",
+          "odpowiedzi": [
+            "C#",
+            "Python",
+            "Java"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co to jest scena w Unity?",
+          "odpowiedzi": [
+            "Przestrzeń, w której umieszczane są obiekty gry i w której odbywa się rozgrywka",
+            "Zbiór tekstur używanych w grze",
+            "Skrypt odpowiedzialny za animację"
+          ],
+          "poprawna_odpowiedz": 0
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "16",
+      "imie": "Piotr Różycki",
+      "doswiadczenie": "6 lat pracy w Unity",
+      "certyfikaty": [
+        "Unity Certified Developer",
+        "Game Development Specialist"
+      ]
+    },
+    "preferencje": [
+      "C#",
+      "Unity",
+      "Game Development",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": "17",
+    "nazwa": "Wprowadzenie do Ruby on Rails",
+    "kategoria": "Web Development",
+    "slowa_kluczowe": [
+      "Ruby on Rails",
+      "backend",
+      "programowanie"
+    ],
+    "czas_trwania": "6 tygodni",
+    "poziom_trudnosci": "Intermediate",
+    "oceny": [
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "opis": "Kurs wprowadzający do frameworka Ruby on Rails, który pozwala tworzyć aplikacje backendowe w języku Ruby.",
+    "plan_lekcji": [
+      "Wprowadzenie do Ruby on Rails",
+      "Tworzenie aplikacji webowych",
+      "Praca z bazami danych",
+      "Bezpieczeństwo aplikacji",
+      "Optymalizacja kodu"
+    ],
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "Wprowadzenie do Ruby on Rails",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 2,
+        "nazwa": "Tworzenie aplikacji webowych",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 3,
+        "nazwa": "Praca z bazami danych",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 4,
+        "nazwa": "Bezpieczeństwo aplikacji",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      },
+      {
+        "numer": 5,
+        "nazwa": "Optymalizacja kodu",
+        "materiały": [
+          {
+            "typ": "tekst",
+            "zawartosc": "tekst.txt"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": [
+        {
+          "pytanie": "Czym jest Ruby on Rails?",
+          "odpowiedzi": [
+            "Framework do tworzenia aplikacji backendowych w języku Ruby",
+            "Język programowania służący do tworzenia aplikacji webowych",
+            "Baza danych do przechowywania danych aplikacji"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co pozwala na tworzenie aplikacji webowych w Ruby on Rails?",
+          "odpowiedzi": [
+            "Rails jest frameworkiem, który upraszcza tworzenie aplikacji poprzez dostarczenie gotowych narzędzi i bibliotek",
+            "Rails to język programowania, w którym musisz ręcznie pisać kod aplikacji",
+            "Rails to narzędzie do projektowania interfejsów użytkownika"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Jakie bazy danych są najczęściej używane w Ruby on Rails?",
+          "odpowiedzi": [
+            "MySQL, PostgreSQL, SQLite",
+            "MongoDB, Oracle, Cassandra",
+            "Redis, Firebase, CouchDB"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Co oznacza pojęcie bezpieczeństwa aplikacji w kontekście Ruby on Rails?",
+          "odpowiedzi": [
+            "Ochrona przed atakami typu SQL injection, Cross-Site Scripting (XSS) i Cross-Site Request Forgery (CSRF)",
+            "Optymalizacja kodu aplikacji",
+            "Tworzenie efektów wizualnych w aplikacjach"
+          ],
+          "poprawna_odpowiedz": 0
+        },
+        {
+          "pytanie": "Dlaczego optymalizacja kodu jest ważna w Ruby on Rails?",
+          "odpowiedzi": [
+            "Optymalizacja kodu pozwala na poprawienie wydajności aplikacji, zmniejszenie zużycia zasobów i poprawienie czasu odpowiedzi",
+            "Optymalizacja kodu poprawia jedynie wygląd aplikacji",
+            "Optymalizacja kodu nie ma wpływu na wydajność aplikacji"
+          ],
+          "poprawna_odpowiedz": 0
+        }
+      ]
+    },
+    "informacje_o_prowadzacym": {
+      "id": "17",
+      "imie": "Marek Zieliński",
+      "doswiadczenie": "7 lat doświadczenia w Ruby on Rails",
+      "certyfikaty": [
+        "Ruby on Rails Certified",
+        "Backend Developer"
+      ]
+    },
+    "preferencje": [
+      "Ruby",
+      "Ruby on Rails",
+      "JavaScript",
+      "SQL"
+    ]
+  },
+  {
+    "id": "18",
+    "nazwa": "a",
+    "kategoria": "Web Development",
+    "slowa_kluczowe": [
+      "a"
+    ],
+    "czas_trwania": "1 tydzień",
+    "poziom_trudnosci": "Intermediate",
+    "oceny": [
+      5
+    ],
+    "opis": "1",
+    "lekcje": [
+      {
+        "numer": 1,
+        "nazwa": "yuyu",
+        "materiały": [
+          {
+            "typ": "prezentacja",
+            "zawartosc": "wykl3.pdf"
+          },
+          {
+            "typ": "prezentacja",
+            "zawartosc": "wykl5.pdf"
+          }
+        ]
+      }
+    ],
+    "quiz": {
+      "pytania": []
+    },
+    "informacje_o_prowadzacym": {
+      "id": "18",
+      "imie": "a",
+      "doswiadczenie": "d",
+      "certyfikaty": []
+    },
+    "preferencje": [
+      "JavaScript"
+    ],
+    "createdBy": "1",
+    "plan_lekcji": [
+      "yuyu"
+    ]
+  }
+]
