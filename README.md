@@ -23,7 +23,7 @@ E-Learning Platform is built using the following technologies:
 
 To get started with the E-Learning Platform, follow these steps:
 
-1️⃣ Clone the Repository  
+1️⃣ Clone the Repository    
 
 Download the repository to your local machine by running the following command in your terminal:  
 
@@ -31,27 +31,30 @@ Download the repository to your local machine by running the following command i
 git clone https://github.com/hsialitskaya/Learning_App.git Learning_App
 ```
 
-2️⃣ Install Dependencies
+2️⃣ Install Dependencies  
+
 Ensure you have Node.js installed on your system. Then, navigate to the project directory and install the required dependencies:
 ```bash
 cd Learning_App
 npm install
 ```
 
-3️⃣ Run the Application
+3️⃣ Run the Application  
+
 Once the dependencies are installed, start the development server by running:
 ```bash
 npm run dev
 ```
 This will launch the app locally, and you can view it in your browser at **http://localhost:3000**.
 
-4️⃣ Run the Serwer
+4️⃣ Run the Serwer  
+
 Start the backend server by running the following command in your terminal:
 ```bash
 node src/server.js
 ```
 
- ## License
+## License
 Pokémons Explorer is licensed under the MIT License. See [LICENSE](https://github.com/hsialitskaya/Learning_App/blob/main/LICENSE) for more information.    
 
 Happy coding and enjoy creating and exploring new learning experiences! 🎉
